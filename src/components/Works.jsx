@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
-import Tilt from "react-tilt";
+import Tilt from 'react-parallax-tilt';
 import { motion } from "framer-motion";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, Autoplay, EffectCoverflow } from 'swiper/modules';
