@@ -1,6 +1,7 @@
 # Personal Portfolio
 
-Welcome to my portfolio repository! This space highlights a curated collection of my projects in AI, web development, machine learning, and hydropower systems engineering.
+Welcome to my portfolio repository! 
+This space highlights a curated collection of my projects in AI, web development, machine learning, and hydropower systems engineering.
 
 ## Featured Projects
 
