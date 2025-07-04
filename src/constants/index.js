@@ -158,6 +158,11 @@ const experiences = [
 
 const testimonials = [
   {
+    heading: "Overall Winner – Virtusa's Excellathon 1.0",
+    subParagraph: "Thrilled to share that our team emerged as the Overall Winner of Excellathon 1.0 – a 14-day hackathon organized by the Department of M.Tech CSE, Sri Sairam Engineering College in association with Virtusa. Competing against several innovative teams, we demonstrated our technical and problem-solving skills to build a solution that stood out and secured the top position.",
+    image: "https://media.licdn.com/dms/image/v2/D5622AQH-IrJ_1DNH_A/feedshare-shrink_800/B56ZfPh8OMG0Ag-/0/1751533472773?e=1754524800&v=beta&t=s39IQyUA5ia5O9Rxo1nLMbTEx7gg9sxI1PBIPj-5IXI",
+  },
+  {
     heading: "Finalist – Smart India Hackathon 2024",
     subParagraph: "Selected as one of the top 5 finalist teams from over 500 submissions under our problem statement. Represented our project at the national-level finale held at Don Bosco Institute of Technology, Bengaluru.",
     image: "https://media.licdn.com/dms/image/v2/D5622AQGJd1xEdBzbYw/feedshare-shrink_2048_1536/B56ZPLScD7HoAo-/0/1734282431833?e=1753920000&v=beta&t=G2iyjPTWRiedaXNm_TyXFKElEsaKVPnVWFxS3b4zaTE",
