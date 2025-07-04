@@ -29,6 +29,7 @@ import virtusa from "./company/virtusa.png";
 import hydro from "./hydro.png";
 import hydraulic from "./hydraulic.png";
 import stress from "./stress.png";
+import traffix from "./traffix.png";
 
 export {
   logo,
@@ -59,4 +60,5 @@ export {
   powerbi,
   ansys,
   expo,
+  traffix,
 };
