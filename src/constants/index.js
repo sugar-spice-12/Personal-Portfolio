@@ -159,7 +159,7 @@ const experiences = [
 const testimonials = [
   {
     heading: "Overall Winner – Virtusa's Excellathon 1.0",
-    subParagraph: "Thrilled to share that our team emerged as the Overall Winner of Excellathon 1.0 – a 14-day hackathon organized by the Department of M.Tech CSE, Sri Sairam Engineering College in association with Virtusa. Competing against several innovative teams, we demonstrated our technical and problem-solving skills to build a solution that stood out and secured the top position.",
+    subParagraph: "Won 1st place in a 14-day hackathon organized by M.Tech CSE, Sri Sairam Engineering College in association with Virtusa.",
     image: "https://media.licdn.com/dms/image/v2/D5622AQH-IrJ_1DNH_A/feedshare-shrink_800/B56ZfPh8OMG0Ag-/0/1751533472773?e=1754524800&v=beta&t=s39IQyUA5ia5O9Rxo1nLMbTEx7gg9sxI1PBIPj-5IXI",
   },
   {
@@ -245,6 +245,34 @@ const projects = [
       },
     ],
     image: hydraulic,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "Traffix – Copfriendly E Seva",
+    points: [
+      "Developed a digital e-Seva platform titled 'Cop Friendly App – E Seva' to support traffic police, RTO, and emergency responders with real-time operations and violation tracking.",
+      "Integrated Generative AI (CopGPT) for assisting on-ground law enforcement with automated responses and insights.",
+      "Built both web and mobile applications; deployed the web version via Vercel for seamless access.",
+      "Led the front-end development using React, React Router, Tailwind CSS, Axios, and React Hook Form, ensuring responsive and intuitive UI.",
+      "Collaborated with backend and AI teams to integrate secure APIs, JWT-based authentication, file uploads (Multer), and OpenAI services.",
+      "Used Node.js and Express.js for building scalable backend APIs with bcrypt for password security and CORS for secure cross-origin requests.",
+      "Ensured smooth data flow and app performance through close integration between UI and backend logic."
+    ],
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "node.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "openai",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: traffix,
     source_code_link: "https://github.com/",
   },
   {
