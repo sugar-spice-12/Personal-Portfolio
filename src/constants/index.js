@@ -23,6 +23,7 @@ import {
   expo,
   hydraulic,
   stress,
+  traffix,
 } from "../assets";
 
 export const navLinks = [
